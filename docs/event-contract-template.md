@@ -9,8 +9,8 @@
 - Consumer: Service A5 (Analytics)
 - Cơ chế: Queue async
 - Event/topic dự kiến: `camera.frame.processed`
-- Người ghi: Nguyễn Đức Hợp
-- Ngày: 13/05/2026
+- Người ghi: Nhóm 1
+- Ngày: 15/05/2026
 
 ## 2. Mục đích nghiệp vụ
 
