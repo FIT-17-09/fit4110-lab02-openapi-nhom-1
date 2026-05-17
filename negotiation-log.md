@@ -83,7 +83,7 @@
 
 # Chốt hợp đồng v1.0
 
-Provider sign-off: Đỗ Thành Nam (Đại diện A4)
-Consumer sign-off: Nguyễn Đức Hợp (Đại diện A2)
+Provider sign-off: Nhóm 10
+Consumer sign-off: Nhóm 1
 Witness (GV/TA): Giảng viên hướng dẫn
 Date: 15/05/2026
